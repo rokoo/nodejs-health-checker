@@ -46,7 +46,7 @@ export const cenarios: HealthCheckDetailedTestCenario = {
       type: HealthTypes.Memcached,
       host: "localhost",
       port: 11211,
-      timeout:1001
+      timeout: 1001,
     },
   },
   memcachedFalsy: {
